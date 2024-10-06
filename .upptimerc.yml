@@ -24,7 +24,7 @@ status-website:
   cname: status.other.page
   # baseUrl: /your-repo-name
   logoUrl: https://other.page/images/op-logo.png
-  theme: dark
+  theme: night
   name: Other Page
   introTitle: "Othe Page Status"
   introMessage: 
