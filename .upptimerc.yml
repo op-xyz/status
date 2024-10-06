@@ -26,13 +26,13 @@ status-website:
   logoUrl: https://cdn.other.page/icon.png
   themeUrl: https://status.other.page/theme.css
   name: Other Page
-  introTitle: "Other Page Status"
+  introTitle: Status
   introMessage: 
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/cr3labs/other-page-status
+    # - title: Status
+    #   href: /
+    # - title: GitHub
+    #   href: https://github.com/cr3labs/other-page-status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
