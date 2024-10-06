@@ -23,10 +23,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.other.page
   # baseUrl: /your-repo-name
-  logoUrl: https://other.page/images/op-logo.png
-  theme: night
+  logoUrl: https://cdn.other.page/icon.png
+  themeUrl: https://status.other.page/theme.css
   name: Other Page
-  introTitle: "Othe Page Status"
+  introTitle: "Other Page Status"
   introMessage: 
   navbar:
     - title: Status
