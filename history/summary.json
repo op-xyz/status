@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 188,
-    "timeWeek": 264,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "time": 257,
+    "timeDay": 229,
+    "timeWeek": 258,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
     "slug": "other-page-app-api",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1252,
-    "timeDay": 3573,
-    "timeWeek": 1697,
-    "timeMonth": 1252,
-    "timeYear": 1252,
-    "dailyMinutesDown": {
-      "2024-10-18": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1163,
+    "timeDay": 3556,
+    "timeWeek": 1520,
+    "timeMonth": 1163,
+    "timeYear": 1163,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Other Page Portal",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 252,
-    "timeWeek": 313,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "time": 306,
+    "timeDay": 272,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
     "slug": "other-page-portal-api",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1118,
-    "timeDay": 3472,
-    "timeWeek": 1555,
-    "timeMonth": 1118,
-    "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2024-10-18": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1029,
+    "timeDay": 3464,
+    "timeWeek": 1378,
+    "timeMonth": 1029,
+    "timeYear": 1029,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Other Page Public API",
@@ -81,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
     "slug": "other-page-public-api",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 104,
-    "timeDay": 86,
-    "timeWeek": 107,
-    "timeMonth": 104,
-    "timeYear": 104,
-    "dailyMinutesDown": {
-      "2024-10-18": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 107,
+    "timeDay": 88,
+    "timeWeek": 111,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {}
   }
 ]
