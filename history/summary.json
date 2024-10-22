@@ -4,9 +4,9 @@
     "url": "https://alpha.other.page",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.other.page.ico",
     "slug": "other-page-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 246,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Other Page App API",
@@ -40,7 +42,7 @@
     "url": "https://alpha-portal.other.page",
     "icon": "https://icons.duckduckgo.com/ip3/alpha-portal.other.page.ico",
     "slug": "other-page-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 316,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Other Page Portal API",
