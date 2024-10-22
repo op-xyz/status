@@ -4,19 +4,19 @@
     "url": "https://alpha.other.page",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.other.page.ico",
     "slug": "other-page-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 344,
-    "timeWeek": 246,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 254,
+    "timeDay": 281,
+    "timeWeek": 243,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 24
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://alpha-portal.other.page",
     "icon": "https://icons.duckduckgo.com/ip3/alpha-portal.other.page.ico",
     "slug": "other-page-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 553,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 313,
+    "timeDay": 420,
+    "timeWeek": 312,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 23
     }
   },
   {
