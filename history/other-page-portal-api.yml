@@ -1,4 +1,4 @@
-url: https://alpha-api.other.page/portal/v1/health
+url: https://api.other.page/portal/v1/health
 status: up
 code: 200
 responseTime: 135

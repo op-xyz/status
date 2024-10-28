@@ -4,19 +4,19 @@ repo: other-page-status # The name of this repository
 
 sites:
   - name: Other Page App
-    url: https://alpha.other.page
+    url: https://portal.other.page
   - name: Other Page App API
-    url: https://alpha-api.other.page/core/v0/health
+    url: https://api.other.page/core/v0/health
   - name: Other Page Portal
-    url: https://alpha-portal.other.page
+    url: https://portal.other.page
   - name: Other Page Portal API
-    url: https://alpha-api.other.page/portal/v1/health
+    url: https://api.other.page/portal/v1/health
   - name: Other Page Public API
-    url: https://alpha-api.other.page/v1/health
+    url: https://api.other.page/v1/health
   # - name: Other Page Blockchain Service
-  #   url: https://alpha-api.other.page/portal/v1/blockchain/health
+  #   url: https://api.other.page/portal/v1/blockchain/health
   # - name: Other Page Indexer Service
-  #   url: https://alpha-api.other.page/portal/v1/indexer/health
+  #   url: https://api.other.page/portal/v1/indexer/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

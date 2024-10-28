@@ -1,8 +1,8 @@
 [
   {
     "name": "Other Page App",
-    "url": "https://alpha.other.page",
-    "icon": "https://icons.duckduckgo.com/ip3/alpha.other.page.ico",
+    "url": "https://portal.other.page",
+    "icon": "https://icons.duckduckgo.com/ip3/portal.other.page.ico",
     "slug": "other-page-app",
     "status": "up",
     "uptime": "99.92%",
@@ -21,8 +21,8 @@
   },
   {
     "name": "Other Page App API",
-    "url": "https://alpha-api.other.page/core/v0/health",
-    "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
+    "url": "https://api.other.page/core/v0/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "other-page-app-api",
     "status": "up",
     "uptime": "100.00%",
@@ -39,8 +39,8 @@
   },
   {
     "name": "Other Page Portal",
-    "url": "https://alpha-portal.other.page",
-    "icon": "https://icons.duckduckgo.com/ip3/alpha-portal.other.page.ico",
+    "url": "https://portal.other.page",
+    "icon": "https://icons.duckduckgo.com/ip3/portal.other.page.ico",
     "slug": "other-page-portal",
     "status": "up",
     "uptime": "99.92%",
@@ -59,8 +59,8 @@
   },
   {
     "name": "Other Page Portal API",
-    "url": "https://alpha-api.other.page/portal/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
+    "url": "https://api.other.page/portal/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "other-page-portal-api",
     "status": "up",
     "uptime": "100.00%",
@@ -77,8 +77,8 @@
   },
   {
     "name": "Other Page Public API",
-    "url": "https://alpha-api.other.page/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
+    "url": "https://api.other.page/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "other-page-public-api",
     "status": "up",
     "uptime": "100.00%",
