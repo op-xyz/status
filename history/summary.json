@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 292,
-    "timeDay": 542,
-    "timeWeek": 376,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 296,
+    "timeDay": 408,
+    "timeWeek": 397,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2024-10-22": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 596,
-    "timeDay": 184,
-    "timeWeek": 205,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 588,
+    "timeDay": 353,
+    "timeWeek": 215,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2024-10-28": 41
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 447,
-    "timeDay": 141,
-    "timeWeek": 158,
-    "timeMonth": 447,
-    "timeYear": 447,
+    "time": 436,
+    "timeDay": 156,
+    "timeWeek": 145,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2024-10-22": 23
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 465,
-    "timeDay": 63,
-    "timeWeek": 104,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 454,
+    "timeDay": 152,
+    "timeWeek": 106,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2024-10-28": 52
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "other-page-public-api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 105,
-    "timeDay": 69,
-    "timeWeek": 107,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 104,
+    "timeDay": 86,
+    "timeWeek": 102,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2024-10-28": 42
     }
