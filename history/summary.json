@@ -1,110 +1,144 @@
 [
   {
-    "name": "Other Page App",
-    "url": "https://portal.other.page",
-    "icon": "https://icons.duckduckgo.com/ip3/portal.other.page.ico",
-    "slug": "other-page-app",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 160,
-    "timeWeek": 281,
-    "timeMonth": 304,
-    "timeYear": 320,
-    "dailyMinutesDown": {
-      "2024-10-22": 24
-    }
-  },
-  {
-    "name": "Other Page App API",
-    "url": "https://api.other.page/core/v0/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
-    "slug": "other-page-app-api",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 278,
-    "timeDay": 260,
-    "timeWeek": 241,
-    "timeMonth": 227,
-    "timeYear": 278,
-    "dailyMinutesDown": {
-      "2025-02-03": 53,
-      "2024-11-05": 98,
-      "2024-10-28": 41
-    }
-  },
-  {
-    "name": "Other Page Portal",
-    "url": "https://portal.other.page",
-    "icon": "https://icons.duckduckgo.com/ip3/portal.other.page.ico",
-    "slug": "other-page-portal",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 191,
-    "timeDay": 87,
-    "timeWeek": 199,
-    "timeMonth": 142,
-    "timeYear": 191,
-    "dailyMinutesDown": {
-      "2024-10-22": 23
-    }
-  },
-  {
-    "name": "Other Page Portal API",
-    "url": "https://api.other.page/portal/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
-    "slug": "other-page-portal-api",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 166,
-    "timeDay": 142,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 166,
-    "dailyMinutesDown": {
-      "2025-02-03": 53,
-      "2024-11-21": 139,
-      "2024-10-28": 52
-    }
-  },
-  {
-    "name": "Other Page Public API",
+    "name": "Public API",
     "url": "https://api.other.page/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
-    "slug": "other-page-public-api",
+    "slug": "public-api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 163,
-    "timeDay": 133,
-    "timeWeek": 99,
-    "timeMonth": 100,
-    "timeYear": 163,
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-02-03": 53,
-      "2024-11-22": 49,
-      "2024-11-21": 20,
-      "2024-11-05": 98,
-      "2024-10-28": 42
+      "2025-07-29": 17,
+      "2025-04-17": 68,
+      "2025-04-14": 19
+    }
+  },
+  {
+    "name": "Minting Service",
+    "url": "https://api.other.page/v1/health/blockchain",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
+    "slug": "minting-service",
+    "status": "down",
+    "uptime": "16.11%",
+    "uptimeDay": "16.11%",
+    "uptimeWeek": "16.11%",
+    "uptimeMonth": "16.11%",
+    "uptimeYear": "16.11%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-31": 8
+    }
+  },
+  {
+    "name": "Mainnet Indexer",
+    "url": "https://api.other.page/v1/health/blockchain/mainnet",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
+    "slug": "mainnet-indexer",
+    "status": "down",
+    "uptime": "19.58%",
+    "uptimeDay": "19.58%",
+    "uptimeWeek": "19.58%",
+    "uptimeMonth": "19.58%",
+    "uptimeYear": "19.58%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-31": 6
+    }
+  },
+  {
+    "name": "Apechain Indexer",
+    "url": "https://api.other.page/v1/health/blockchain/apechain",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
+    "slug": "apechain-indexer",
+    "status": "down",
+    "uptime": "24.30%",
+    "uptimeDay": "24.30%",
+    "uptimeWeek": "24.30%",
+    "uptimeMonth": "24.30%",
+    "uptimeYear": "24.30%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-31": 5
+    }
+  },
+  {
+    "name": "Base Indexer",
+    "url": "https://api.other.page/v1/health/blockchain/base",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
+    "slug": "base-indexer",
+    "status": "down",
+    "uptime": "31.97%",
+    "uptimeDay": "31.97%",
+    "uptimeWeek": "31.97%",
+    "uptimeMonth": "31.97%",
+    "uptimeYear": "31.97%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-31": 3
+    }
+  },
+  {
+    "name": "Polygon Indexer",
+    "url": "https://api.other.page/v1/health/blockchain/polygon",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
+    "slug": "polygon-indexer",
+    "status": "down",
+    "uptime": "47.66%",
+    "uptimeDay": "47.66%",
+    "uptimeWeek": "47.66%",
+    "uptimeMonth": "47.66%",
+    "uptimeYear": "47.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-31": 2
+    }
+  },
+  {
+    "name": "Curtis Indexer",
+    "url": "https://api.other.page/v1/health/blockchain/curtis",
+    "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
+    "slug": "curtis-indexer",
+    "status": "down",
+    "uptime": "92.79%",
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "92.79%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-31": 0
     }
   }
 ]
