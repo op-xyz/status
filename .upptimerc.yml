@@ -15,8 +15,8 @@ sites:
     url: https://api.other.page/v1/health/blockchain/base
   - name: Polygon Indexer
     url: https://api.other.page/v1/health/blockchain/polygon
-  - name: Curtis Indexer
-    url: https://api.other.page/v1/health/blockchain/curtis
+  # - name: Curtis Indexer
+  #   url: https://api.other.page/v1/health/blockchain/curtis
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
