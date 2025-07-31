@@ -5,8 +5,18 @@ repo: other-page-status # The name of this repository
 sites:
   - name: Public API
     url: https://api.other.page/v1/health
-  - name: Blockchain Service
+  - name: Minting Service
     url: https://api.other.page/v1/health/blockchain
+  - name: Mainnet Indexer
+    url: https://api.other.page/v1/health/blockchain/mainnet
+  - name: Apechain Indexer
+    url: https://api.other.page/v1/health/blockchain/apechain
+  - name: Base Indexer
+    url: https://api.other.page/v1/health/blockchain/base
+  - name: Polygon Indexer
+    url: https://api.other.page/v1/health/blockchain/polygon
+  - name: Curtis Indexer
+    url: https://api.other.page/v1/health/blockchain/curtis
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
