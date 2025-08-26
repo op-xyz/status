@@ -3,18 +3,21 @@ owner: cr3labs # Your GitHub organization or username, where this repository liv
 repo: other-page-status # The name of this repository
 
 sites:
-  - name: Public API
-    url: https://api.other.page/v1/health
-  - name: Minting Service
+  - name: App
+    url: https://api.other.page/core/v0/health
+  - name: Minter
     url: https://api.other.page/v1/health/blockchain
-  - name: Mainnet Indexer
-    url: https://api.other.page/v1/health/blockchain/mainnet
-  - name: Apechain Indexer
-    url: https://api.other.page/v1/health/blockchain/apechain
-  - name: Base Indexer
-    url: https://api.other.page/v1/health/blockchain/base
-  - name: Polygon Indexer
-    url: https://api.other.page/v1/health/blockchain/polygon
+  - name: API
+    url: https://api.other.page/v1/health
+
+  # - name: Mainnet Indexer
+  #   url: https://api.other.page/v1/health/blockchain/mainnet
+  # - name: Apechain Indexer
+  #   url: https://api.other.page/v1/health/blockchain/apechain
+  # - name: Base Indexer
+  #   url: https://api.other.page/v1/health/blockchain/base
+  # - name: Polygon Indexer
+  #   url: https://api.other.page/v1/health/blockchain/polygon
   # - name: Curtis Indexer
   #   url: https://api.other.page/v1/health/blockchain/curtis
 
