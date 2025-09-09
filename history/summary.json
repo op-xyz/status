@@ -4,20 +4,18 @@
     "url": "https://api.op.xyz/core/v0/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "6.48%",
-    "uptimeDay": "6.48%",
-    "uptimeWeek": "6.48%",
-    "uptimeMonth": "6.48%",
-    "uptimeYear": "6.48%",
-    "time": 90,
-    "timeDay": 90,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
-    "dailyMinutesDown": {
-      "2025-09-09": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minter",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
     "slug": "minter",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 52,
-    "timeDay": 52,
-    "timeWeek": 52,
-    "timeMonth": 52,
-    "timeYear": 52,
-    "dailyMinutesDown": {
-      "2025-09-09": 0
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 42,
-    "timeDay": 42,
-    "timeWeek": 42,
-    "timeMonth": 42,
-    "timeYear": 42,
-    "dailyMinutesDown": {
-      "2025-09-09": 0
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
+    "dailyMinutesDown": {}
   }
 ]
