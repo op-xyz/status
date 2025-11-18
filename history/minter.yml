@@ -1,7 +1,7 @@
 url: https://api.op.xyz/v1/health/blockchain
-status: up
-code: 200
-responseTime: 56
-lastUpdated: 2025-11-17T23:05:17.192Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-11-18T14:37:36.894Z
 startTime: 2025-09-09T06:24:19.751Z
 generator: Upptime <https://github.com/upptime/upptime>
