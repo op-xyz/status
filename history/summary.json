@@ -25,7 +25,7 @@
     "url": "https://api.op.xyz/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
     "slug": "minter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 102,
     "timeYear": 106,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-11-13": 104
     }
   },
