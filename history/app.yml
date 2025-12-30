@@ -1,7 +1,7 @@
 url: https://api.op.xyz/core/v0/health
-status: down
-code: 503
-responseTime: 221
-lastUpdated: 2025-12-30T06:49:50.975Z
+status: up
+code: 200
+responseTime: 247
+lastUpdated: 2025-12-30T07:00:53.902Z
 startTime: 2025-09-09T06:24:16.970Z
 generator: Upptime <https://github.com/upptime/upptime>
