@@ -1,7 +1,7 @@
 url: https://api.op.xyz/v1/health/blockchain
 status: up
 code: 200
-responseTime: 112
-lastUpdated: 2026-01-30T23:08:30.850Z
+responseTime: 60
+lastUpdated: 2026-01-31T23:06:01.097Z
 startTime: 2025-09-09T06:24:19.751Z
 generator: Upptime <https://github.com/upptime/upptime>
