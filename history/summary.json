@@ -1,8 +1,8 @@
 [
   {
     "name": "App",
-    "url": "https://api.op.xyz/core/v0/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
+    "url": "https://api.openpage.fun/core/v0/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "app",
     "status": "up",
     "uptime": "99.97%",
@@ -22,8 +22,8 @@
   },
   {
     "name": "Minter",
-    "url": "https://api.op.xyz/v1/health/blockchain",
-    "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
+    "url": "https://api.openpage.fun/v1/health/blockchain",
+    "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
     "status": "up",
     "uptime": "99.94%",
@@ -44,8 +44,8 @@
   },
   {
     "name": "API",
-    "url": "https://api.op.xyz/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.op.xyz.ico",
+    "url": "https://api.openpage.fun/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "api",
     "status": "up",
     "uptime": "99.98%",

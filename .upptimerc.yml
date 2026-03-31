@@ -4,31 +4,31 @@ repo: status # The name of this repository
 
 sites:
   - name: App
-    url: https://api.op.xyz/core/v0/health
+    url: https://api.openpage.fun/core/v0/health
   - name: Minter
-    url: https://api.op.xyz/v1/health/blockchain
+    url: https://api.openpage.fun/v1/health/blockchain
   - name: API
-    url: https://api.op.xyz/v1/health
+    url: https://api.openpage.fun/v1/health
 
   # - name: Mainnet Indexer
-  #   url: https://api.op.xyz/v1/health/blockchain/mainnet
+  #   url: https://api.openpage.fun/v1/health/blockchain/mainnet
   # - name: Apechain Indexer
-  #   url: https://api.op.xyz/v1/health/blockchain/apechain
+  #   url: https://api.openpage.fun/v1/health/blockchain/apechain
   # - name: Base Indexer
-  #   url: https://api.op.xyz/v1/health/blockchain/base
+  #   url: https://api.openpage.fun/v1/health/blockchain/base
   # - name: Polygon Indexer
-  #   url: https://api.op.xyz/v1/health/blockchain/polygon
+  #   url: https://api.openpage.fun/v1/health/blockchain/polygon
   # - name: Curtis Indexer
-  #   url: https://api.op.xyz/v1/health/blockchain/curtis
+  #   url: https://api.openpage.fun/v1/health/blockchain/curtis
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.op.xyz
+  cname: status.openpage.fun
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.op.xyz/icon.png
-  themeUrl: https://status.op.xyz/theme.css
-  name: op.xyz
+  logoUrl: https://cdn.openpage.fun/icon.png
+  themeUrl: https://status.openpage.fun/theme.css
+  name: openpage.fun
   introTitle: Status
   introMessage: 
   navbar:
