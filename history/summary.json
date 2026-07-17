@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.64%",
+    "uptimeDay": "81.17%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.64%",
     "time": 242,
     "timeDay": 4652,
     "timeWeek": 1292,
@@ -22,7 +22,7 @@
       "2026-04-01": 17,
       "2026-04-24": 824,
       "2026-05-31": 370,
-      "2026-07-17": 3
+      "2026-07-17": 271
     }
   },
   {
@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
     "status": "down",
-    "uptime": "96.36%",
-    "uptimeDay": "90.40%",
-    "uptimeWeek": "74.25%",
-    "uptimeMonth": "77.87%",
-    "uptimeYear": "96.36%",
+    "uptime": "96.30%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "73.82%",
+    "uptimeMonth": "77.26%",
+    "uptimeYear": "96.30%",
     "time": 439,
     "timeDay": 12722,
     "timeWeek": 5728,
@@ -76,7 +76,7 @@
       "2026-07-12": 275,
       "2026-07-11": 1440,
       "2026-07-10": 742,
-      "2026-07-17": 139
+      "2026-07-17": 407
     }
   },
   {
@@ -84,24 +84,24 @@
     "url": "https://api.openpage.fun/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "90.51%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.89%",
-    "time": 254,
-    "timeDay": 13800,
-    "timeWeek": 5614,
-    "timeMonth": 1793,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "71.87%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.83%",
+    "time": 316,
+    "timeDay": 15196,
+    "timeWeek": 6993,
+    "timeMonth": 2352,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-12-08": 25,
       "2025-12-09": 46,
       "2026-03-30": 26,
       "2026-04-01": 17,
       "2026-05-31": 243,
-      "2026-07-17": 137
+      "2026-07-17": 405
     }
   }
 ]
