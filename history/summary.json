@@ -4,16 +4,16 @@
     "url": "https://api.openpage.fun/core/v0/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "81.17%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "67.31%",
+    "uptimeWeek": "95.33%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.60%",
     "time": 242,
-    "timeDay": 4652,
-    "timeWeek": 1292,
-    "timeMonth": 449,
+    "timeDay": 3176,
+    "timeWeek": 1173,
+    "timeMonth": 442,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-09-14": 21,
@@ -22,7 +22,7 @@
       "2026-04-01": 17,
       "2026-04-24": 824,
       "2026-05-31": 370,
-      "2026-07-17": 271
+      "2026-07-17": 471
     }
   },
   {
@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
     "status": "down",
-    "uptime": "96.30%",
-    "uptimeDay": "71.75%",
+    "uptime": "96.25%",
+    "uptimeDay": "57.24%",
     "uptimeWeek": "73.82%",
-    "uptimeMonth": "77.26%",
-    "uptimeYear": "96.30%",
+    "uptimeMonth": "76.78%",
+    "uptimeYear": "96.25%",
     "time": 439,
     "timeDay": 12722,
     "timeWeek": 5728,
@@ -76,7 +76,7 @@
       "2026-07-12": 275,
       "2026-07-11": 1440,
       "2026-07-10": 742,
-      "2026-07-17": 407
+      "2026-07-17": 616
     }
   },
   {
