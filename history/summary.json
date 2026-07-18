@@ -11,8 +11,8 @@
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.60%",
     "time": 242,
-    "timeDay": 3176,
-    "timeWeek": 1173,
+    "timeDay": 3196,
+    "timeWeek": 1175,
     "timeMonth": 442,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -31,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
     "status": "down",
-    "uptime": "96.25%",
-    "uptimeDay": "57.24%",
+    "uptime": "96.16%",
+    "uptimeDay": "27.99%",
     "uptimeWeek": "73.82%",
-    "uptimeMonth": "76.78%",
-    "uptimeYear": "96.25%",
+    "uptimeMonth": "75.82%",
+    "uptimeYear": "96.16%",
     "time": 439,
-    "timeDay": 12722,
+    "timeDay": 16917,
     "timeWeek": 5728,
-    "timeMonth": 1766,
+    "timeMonth": 1816,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-11-13": 104,
@@ -76,7 +76,8 @@
       "2026-07-12": 275,
       "2026-07-11": 1440,
       "2026-07-10": 742,
-      "2026-07-17": 616
+      "2026-07-17": 924,
+      "2026-07-18": 113
     }
   },
   {
@@ -91,7 +92,7 @@
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.83%",
     "time": 316,
-    "timeDay": 15196,
+    "timeDay": 15217,
     "timeWeek": 6993,
     "timeMonth": 2352,
     "timeYear": 316,
