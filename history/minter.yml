@@ -1,7 +1,7 @@
 url: https://api.openpage.fun/v1/health/blockchain
-status: up
-code: 200
-responseTime: 138
-lastUpdated: 2026-08-07T01:40:56.361Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-08-07T12:33:16.760Z
 startTime: 2025-09-09T06:24:19.751Z
 generator: Upptime <https://github.com/upptime/upptime>
