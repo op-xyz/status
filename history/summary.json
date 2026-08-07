@@ -30,15 +30,15 @@
     "url": "https://api.openpage.fun/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
-    "status": "down",
-    "uptime": "95.65%",
-    "uptimeDay": "100.00%",
+    "status": "up",
+    "uptime": "95.57%",
+    "uptimeDay": "71.16%",
     "uptimeWeek": "91.58%",
-    "uptimeMonth": "83.34%",
-    "uptimeYear": "95.65%",
+    "uptimeMonth": "82.89%",
+    "uptimeYear": "95.57%",
     "time": 423,
-    "timeDay": 138,
-    "timeWeek": 154,
+    "timeDay": 164,
+    "timeWeek": 158,
     "timeMonth": 1678,
     "timeYear": 423,
     "dailyMinutesDown": {
@@ -82,7 +82,8 @@
       "2026-07-26": 1440,
       "2026-07-25": 789,
       "2026-08-01": 162,
-      "2026-07-31": 819
+      "2026-07-31": 819,
+      "2026-08-07": 415
     }
   },
   {
