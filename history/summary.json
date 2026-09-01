@@ -4,16 +4,16 @@
     "url": "https://api.openpage.fun/core/v0/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.64%",
     "time": 232,
-    "timeDay": 142,
-    "timeWeek": 175,
-    "timeMonth": 158,
+    "timeDay": 161,
+    "timeWeek": 174,
+    "timeMonth": 159,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-09-14": 21,
@@ -23,7 +23,8 @@
       "2026-04-24": 824,
       "2026-05-31": 370,
       "2026-07-17": 471,
-      "2026-08-25": 38
+      "2026-08-25": 38,
+      "2026-09-01": 8
     }
   },
   {
@@ -32,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
     "status": "down",
-    "uptime": "91.79%",
+    "uptime": "91.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "6.11%",
-    "uptimeMonth": "51.19%",
-    "uptimeYear": "91.79%",
+    "uptimeMonth": "49.26%",
+    "uptimeYear": "91.64%",
     "time": 414,
     "timeDay": 0,
     "timeWeek": 164,
@@ -98,7 +99,7 @@
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 839,
-      "2026-09-01": 183,
+      "2026-09-01": 1030,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -111,15 +112,15 @@
     "url": "https://api.openpage.fun/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 296,
-    "timeDay": 158,
-    "timeWeek": 174,
+    "timeDay": 143,
+    "timeWeek": 168,
     "timeMonth": 150,
     "timeYear": 296,
     "dailyMinutesDown": {
@@ -128,7 +129,8 @@
       "2026-03-30": 26,
       "2026-04-01": 17,
       "2026-05-31": 243,
-      "2026-07-17": 405
+      "2026-07-17": 405,
+      "2026-09-01": 0
     }
   }
 ]
