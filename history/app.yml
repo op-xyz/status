@@ -1,7 +1,7 @@
 url: https://api.openpage.fun/core/v0/health
-status: up
-code: 200
-responseTime: 176
-lastUpdated: 2026-09-16T01:07:18.938Z
+status: down
+code: 500
+responseTime: 144
+lastUpdated: 2026-09-16T21:25:25.256Z
 startTime: 2025-09-09T06:24:16.970Z
 generator: Upptime <https://github.com/upptime/upptime>
