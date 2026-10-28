@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.openpage.fun.ico",
     "slug": "minter",
     "status": "down",
-    "uptime": "88.44%",
-    "uptimeDay": "99.99%",
+    "uptime": "88.43%",
+    "uptimeDay": "94.34%",
     "uptimeWeek": "97.17%",
-    "uptimeMonth": "63.13%",
-    "uptimeYear": "86.89%",
+    "uptimeMonth": "62.94%",
+    "uptimeYear": "86.88%",
     "time": 483,
     "timeDay": 0,
     "timeWeek": 142,
@@ -131,7 +131,7 @@
       "2026-10-17": 267,
       "2026-10-21": 415,
       "2026-10-20": 1028,
-      "2026-10-28": 0
+      "2026-10-28": 82
     }
   },
   {
